@@ -7,10 +7,21 @@
 
 <a href="https://www.linkedin.com/in/ali-mansoor-a1a06b248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-
-
-
 <h3>Languages and Tools </h3>
+
+
+![Firebase](https://img.shields.io/badge/-Firebase-2E2E2E?style=flat-square&logo=firebase&logoColor=ffcb2b)
+![MongoDB](https://img.shields.io/badge/-MongoDB-10AA50?style=flat-square&logo=mongodb&logoColor=ffffff)
+
+
+![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Linux Mint](http://img.shields.io/badge/-Linux%20Mint-B2E876?style=flat-square&logo=linux-mint&logoColor=ffffff)
+
 
 
 
