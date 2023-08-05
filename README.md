@@ -10,8 +10,6 @@
 </div>
 
 
-
-
 <h3>Connect with me </h3>
 
 <a href="https://www.linkedin.com/in/ali-mansoor-a1a06b248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
