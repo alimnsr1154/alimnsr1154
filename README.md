@@ -4,6 +4,7 @@
 </p>
 
 <h3>Connect with me </h3>
+[linkedin] : https://www.linkedin.com/in/ali-mansoor-a1a06b248/
 
 
 
