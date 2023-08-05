@@ -5,7 +5,7 @@
 
 <h3>Connect with me </h3>
 
-https://user-images.githubusercontent.com/110721237/258601896-2e32786d-8e47-4f6d-9341-2d5a2adef68a.png
+<h3>Languages and Tools </h3>
 
 
 
