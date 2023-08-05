@@ -5,7 +5,6 @@
 
 <h3>Connect with me </h3>
 
-[<i class="fab fa-linkedin"></i> Connect on LinkedIn](https://www.linkedin.com/in/ali-mansoor-a1a06b248/)
 
 
 
