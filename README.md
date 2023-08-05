@@ -1,9 +1,12 @@
-- 👋 Hi, I’m ALi Mansoor
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning c++ and Dart(Flutter)
-- 💞️ I’m looking to collaborate on Games and Mobile app development
-- 📫 How to reach me ...   alimansoor4493@gmail.com
-- 📫 You can also contact me on instagram ... alimn_sor 
+<h2>Hey There! 👋</h2>
+<p>
+   Meet a young and passionate programmer with an insatiable appetite for innovation and creativity in the world of mobile app and software development. With a profound love for computer science as a discipline, I constantly seek to expand my horizons and push the boundaries of what's possible in software development. Fueled by an unwavering curiosity, I enthusiastically delve into theoretical computer science and software architecture, eager to unlock the secrets of the digital universe. As I embark on this intellectual journey, I embrace every challenge as an opportunity for growth, striving to be a better version of myself every single day. 
+</p>
+
+
+
+
+
 <!---
 alimnsr1154/alimnsr1154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
