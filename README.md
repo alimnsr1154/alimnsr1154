@@ -6,7 +6,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.pinimg.com/originals/c1/16/12/c11612b4a8bc754d82e4025aab7dc11d.gif" alt="Welcome!" width="300"/>
+<img src="https://thumbs.gfycat.com/AcrobaticGoodnaturedBooby-mobile.mp4" alt="Welcome!" width="300"/>
 
 </div>
 
