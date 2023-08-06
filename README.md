@@ -3,6 +3,7 @@
    Meet a young and passionate programmer with an insatiable appetite for innovation and creativity in the world of mobile app and software development. With a profound love for computer science as a discipline, I constantly seek to expand my horizons and push the boundaries of what's possible in software development. Fueled by an unwavering curiosity, I enthusiastically delve into theoretical computer science and software architecture, eager to unlock the secrets of the digital universe. As I embark on this intellectual journey, I embrace every challenge as an opportunity for growth, striving to be a better version of myself every single day. 
 </p>
 
+
 <div align="center" width="50">
 
 <img src="https://i.pinimg.com/originals/c1/16/12/c11612b4a8bc754d82e4025aab7dc11d.gif" alt="Welcome!" width="300"/>
