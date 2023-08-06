@@ -6,7 +6,7 @@
 
 <div align="center" width="50">
 
-<img src="https://mcdn.wallpapersafari.com/medium/38/97/RSoZIt.gif" alt="Welcome!" width="300"/>
+<img src="https://i.gifer.com/18Y8.gif" alt="Welcome!" width="300"/>
 
 </div>
 
