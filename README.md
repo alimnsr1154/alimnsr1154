@@ -28,6 +28,7 @@
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Linux Mint](http://img.shields.io/badge/-Linux%20Mint-B2E876?style=flat-square&logo=linux-mint&logoColor=ffffff)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 
