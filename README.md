@@ -16,14 +16,9 @@
 <a href="https://www.linkedin.com/in/ali-mansoor-a1a06b248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/alimn_sor" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.snapchat.com/add/al_mnsr1154?share_id=q5OOL69_gh4&locale=en-PK" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/alimn_sor" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn"></a>
-
-
-
 
 
 <h3>Languages and Tools </h3>
-
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
