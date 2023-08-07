@@ -6,7 +6,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.gifer.com/18Y8.gif" alt="Welcome!" width="300"/>
+<img src="https://64.media.tumblr.com/47cd1de999f422bd5c7aa79eddf23827/505e7fe3097af757-57/s500x750/86be37d1474bd247b57a86d719cc82c311b9419f.gifv" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -14,8 +14,8 @@
 <h3>Connect with me </h3>
 
 <a href="https://www.linkedin.com/in/ali-mansoor-a1a06b248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/alimn_sor" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.snapchat.com/add/al_mnsr1154?share_id=q5OOL69_gh4&locale=en-PK" target="_blank"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/alimn_sor" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 
 
 <h3>Languages and Tools </h3>
