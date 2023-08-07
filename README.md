@@ -4,9 +4,9 @@
 </p>
 
 
-<div align="center" width="100">
+<div align="center" width="50">
 
-<img src="https://64.media.tumblr.com/47cd1de999f422bd5c7aa79eddf23827/505e7fe3097af757-57/s500x750/86be37d1474bd247b57a86d719cc82c311b9419f.gifv" alt="Welcome!" width="500" height= "300" />
+<img src="https://64.media.tumblr.com/47cd1de999f422bd5c7aa79eddf23827/505e7fe3097af757-57/s500x750/86be37d1474bd247b57a86d719cc82c311b9419f.gifv" alt="Welcome!" width="400" height= "300" />
 
 </div>
 
