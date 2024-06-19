@@ -64,7 +64,7 @@
 <br/>
 ‎‎ 
 <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats">
+      <img src="https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats" width="800" height="500" >
 <h3>📊 Languages</h3>
 <img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" alt="WakaTime stats" width="500" height="300">
       
