@@ -80,7 +80,9 @@
   </tr>
 </table>
 
-
+<a href="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" target="_blank">
+        <img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" alt="WakaTime Stats">
+      </a>
 
 ## **🏆 Achievements**
 
