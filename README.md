@@ -65,18 +65,11 @@
 ‎‎ 
 <h3>📊 GitHub Stats</h3>
 
-<div style="display: flex; flex-direction: row;">
-  <div style="margin-right: 10px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub Stats">
-    </a>
-  </div>
-  <div>
-    <a href="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" target="_blank">
-      <img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" alt="WakaTime Stats">
-    </a>
-  </div>
-</div>
+| GitHub Stats | WakaTime Stats |
+|--------------|----------------|
+| ![GitHub stats](https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent) | ![WakaTime stats](https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg) |
+
+
 
 
 
