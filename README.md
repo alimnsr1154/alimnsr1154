@@ -54,7 +54,13 @@
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Harmony OS](https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=harmonyos&logoColor=white)
 
+<br/>
+‎‎ 
+## 📊 GitHub stats
 
+[![GitHub stats](https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+‎
+<br/>
 
 
 
