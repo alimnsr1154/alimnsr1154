@@ -56,13 +56,14 @@
 
 <br/>
 ‎‎ 
-<h3>📊 GitHub stats</h3>
+<h3>📊 GitHub Stats</h3>
 
 [![GitHub stats](https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ‎
 <br/>
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=shahryaradil&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
