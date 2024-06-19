@@ -1,7 +1,7 @@
 <h2>Hey There! 👋</h2>
 
 [![](https://visitcount.itsvg.in/api?id=alimnsr1154&icon=0&color=0)](https://visitcount.itsvg.in)
-[![wakatime](https://wakatime.com/badge/user/@1f87a6e4-5e73-458d-b30f-79961da9f5e4.svg)](https://wakatime.com/@1f87a6e4-5e73-458d-b30f-79961da9f5e4)
+[![wakatime](https://wakatime.com/badge/user/0dcf0bfd-0b5e-4de4-a8e6-9a5afd9ec4a0.svg)](https://wakatime.com/@1f87a6e4-5e73-458d-b30f-79961da9f5e4)
 <img src="https://komarev.com/ghpvc/?username=alimnsr1154&label=Profile%20views&color=0e75b6&style=plastic" alt="Mahad871" /> 
 	<a href = "https://commits.top/pakistan.html" target="_blank">
 	</a>
