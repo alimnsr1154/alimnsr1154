@@ -65,11 +65,20 @@
 ‎‎ 
 <h3>📊 GitHub Stats</h3>
 
-[![GitHub stats](https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<figure><embed src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/3f2ecd56-72a0-45e1-88da-45944b7ca1c8.svg"></embed></figure>
-‎
-<br/>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub Stats">
+      </a>
+    </td>
+    <td>
+      <figure>
+        <embed src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/3f2ecd56-72a0-45e1-88da-45944b7ca1c8.svg"></embed>
+      </figure>
+    </td>
+  </tr>
+</table>
 
 
 
