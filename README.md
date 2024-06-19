@@ -65,27 +65,15 @@
 ‎‎ 
 <h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats">
-   
+<h3>📊 Languages</h3>
+![WakaTime stats](https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg) 
       
-
-
-
-
 
 ## **🏆 Achievements**
 
 <div align="center" style="text-align:center">
 <img src="https://github-profile-trophy.vercel.app/?username=alimnsr1154&theme=dracula" /><br />
 </div>
-
-
-
-
-
-
-
-
-
 
 <!---
 alimnsr1154/alimnsr1154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
