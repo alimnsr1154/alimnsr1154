@@ -65,10 +65,18 @@
 ‎‎ 
 <h3>📊 GitHub Stats</h3>
 
-| GitHub Stats | WakaTime Stats |
-|--------------|----------------|
-| ![GitHub stats](https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent) | ![WakaTime stats](https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg) |
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>GitHub Stats</b><br>
+      <img src="https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats">
+    </td>
+    <td width="50%">
+      <b>WakaTime Stats</b><br>
+      <img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" alt="WakaTime stats">
+    </td>
+  </tr>
+</table>
 
 
 
