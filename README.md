@@ -1,7 +1,6 @@
 <h2>Hey There! 👋</h2>
 
 [![](https://visitcount.itsvg.in/api?id=alimnsr1154&icon=0&color=0)](https://visitcount.itsvg.in)
-[![wakatime](https://wakatime.com/badge/user/0dcf0bfd-0b5e-4de4-a8e6-9a5afd9ec4a0.svg)](https://wakatime.com/@1f87a6e4-5e73-458d-b30f-79961da9f5e4)
 
 <p>
    Meet a young and passionate programmer with an insatiable appetite for innovation and creativity in the world of mobile app and software development. With a profound love for computer science as a discipline, I constantly seek to expand my horizons and push the boundaries of what's possible in software development. Fueled by an unwavering curiosity, I enthusiastically delve into theoretical computer science and software architecture, eager to unlock the secrets of the digital universe. As I embark on this intellectual journey, I embrace every challenge as an opportunity for growth, striving to be a better version of myself every single day. 
@@ -19,6 +18,9 @@
 
 <a href="https://www.linkedin.com/in/ali-mansoor-a1a06b248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/alimn_sor" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:alimansoor4493@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 
 
