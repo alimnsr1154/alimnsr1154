@@ -3,8 +3,6 @@
 [![](https://visitcount.itsvg.in/api?id=alimnsr1154&icon=0&color=0)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/1f87a6e4-5e73-458d-b30f-79961da9f5e4/project/5f82efaf-b13e-40db-948a-09887579000b.svg)](https://wakatime.com/badge/user/1f87a6e4-5e73-458d-b30f-79961da9f5e4/project/5f82efaf-b13e-40db-948a-09887579000b)
 
-<p align="center"><em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</em></p>
-
 <p>
    Meet a young and passionate programmer with an insatiable appetite for innovation and creativity in the world of mobile app and software development. With a profound love for computer science as a discipline, I constantly seek to expand my horizons and push the boundaries of what's possible in software development. Fueled by an unwavering curiosity, I enthusiastically delve into theoretical computer science and software architecture, eager to unlock the secrets of the digital universe. As I embark on this intellectual journey, I embrace every challenge as an opportunity for growth, striving to be a better version of myself every single day. 
 </p>
@@ -78,6 +76,8 @@
 <img src="https://github-profile-trophy.vercel.app/?username=alimnsr1154&theme=dracula" /><br />
 </div>
 
+
+<p align="center"><em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</em></p>
 <!---
 alimnsr1154/alimnsr1154 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
