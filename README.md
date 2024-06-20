@@ -69,13 +69,13 @@
 <h3>📊 Languages</h3>
 <img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" alt="WakaTime stats" width="600" height="300">
       
-
-## **🏆 Achievements**
+<h3>🏆 Achievementss</h3>
 
 <div align="center" style="text-align:center">
 <img src="https://github-profile-trophy.vercel.app/?username=alimnsr1154&theme=dracula" /><br />
 </div>
 
+<br/>
 <br/>
 
 <p align="center"><em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</em></p>
