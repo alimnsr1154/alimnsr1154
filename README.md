@@ -64,8 +64,7 @@
 <br/>
 ‎‎ 
 
-## **📊 GitHub Stats**
-
+<h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats" width="600"  >
 
 
