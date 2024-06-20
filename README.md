@@ -76,6 +76,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=alimnsr1154&theme=dracula" /><br />
 </div>
 
+<br/>
 
 <p align="center"><em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</em></p>
 <!---
