@@ -15,7 +15,8 @@
 </div>
 
 
-<h3>Connect with me </h3>
+
+## **Connect with me**
 
 <a href="https://www.linkedin.com/in/ali-mansoor-a1a06b248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/alimn_sor" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -24,8 +25,7 @@
 </a>
 
 
-
-<h3>Languages and Tools </h3>
+## **Languages and Tools**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -63,13 +63,17 @@
 
 <br/>
 ‎‎ 
-<h3>📊 GitHub Stats</h3>
+
+## **📊 GitHub Stats**
+
       <img src="https://github-readme-stats-tau-taupe-31.vercel.app/api?username=alimnsr1154&hide=stars,prs&show_icons=true&rank_icon=github&theme=transparent" alt="GitHub stats" width="600"  >
 
-<h3>📊 Languages</h3>
+
+## **📊 Languages**
+
 <img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" alt="WakaTime stats" width="600" height="300">
       
-<h3>🏆 Achievementss</h3>
+## **🏆 Achievements**
 
 <div align="center" style="text-align:center">
 <img src="https://github-profile-trophy.vercel.app/?username=alimnsr1154&theme=dracula" /><br />
