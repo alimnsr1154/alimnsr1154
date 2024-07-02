@@ -70,7 +70,9 @@
 
 ## **📊 Languages**
 
-<img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/8bebada3-2064-46d2-b4c6-800ed1276c63.svg" alt="WakaTime stats" width="600" height="300">
+<img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/f792b9ec-a0be-4ab8-a4e3-e423de72a653.svg" alt="WakaTime stats" width="600" height="300">
+
+
       
 ## **🏆 Achievements**
 
