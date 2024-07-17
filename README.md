@@ -10,7 +10,7 @@
 
 <div align="center" width="50">
 
-<img src="https://64.media.tumblr.com/47cd1de999f422bd5c7aa79eddf23827/505e7fe3097af757-57/s500x750/86be37d1474bd247b57a86d719cc82c311b9419f.gifv" alt="Welcome!" width="300" height= "250" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU5OG1ocHJreXM4bzJiYmw5eTI5bW56cTdldWdwOTQ2eW51d3M5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" alt="Welcome!" width="300" height= "250" />
 
 </div>
 
