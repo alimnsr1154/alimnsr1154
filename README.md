@@ -72,7 +72,7 @@
 
 ## **📊 Languages**
 
-<img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/32be6a27-b32d-4ab9-ab62-7a06f5137497.svg" alt="WakaTime stats" width="600" height="300">
+<img src="https://wakatime.com/share/@1f87a6e4-5e73-458d-b30f-79961da9f5e4/7ca6feed-cafd-4e8c-81d0-0a8c413207d8.svg" alt="WakaTime stats" width="600" height="300">
 
 
       
